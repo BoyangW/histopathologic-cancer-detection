@@ -18,7 +18,7 @@ There are three main sections:
 	* Training for 3 different datasets 
 	* Model Evaluation (loss/accuracy/confusion matrix/AUC)
 
-The entire pipeline can also be foudned in [Image Augmentation + CNN Exploration.ipynb](Image Augmentation + CNN Exploration.ipynb), which includes code and entire output from all sections above.
+The entire pipeline can also be foudned in [Image_Augmentation_CNN_Exploration.ipynb](Image_Augmentation_CNN_Exploration.ipynb), which includes code and entire output from all sections above.
 
 ## Dataset and Background
 
