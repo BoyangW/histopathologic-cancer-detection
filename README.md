@@ -22,7 +22,7 @@ The entire pipeline can also be foudned in [Image_Augmentation_CNN_Exploration.i
 
 ## Dataset and Background
 
-The data are coming from PatchCamelyon (PCam) benchmark (kaggle competition)
+The data are coming from [PatchCamelyon (PCam) benchmark](https://www.kaggle.com/c/histopathologic-cancer-detection/data) (kaggle competition)
 
 Particularly, the entire dataset consists of 278,000 scans of lymph node sections with labels (cancer/non-cancer).
 Each picture has size of 96 x 96 pixels with monochromatic pattern. There are 220,000 (training) + 57,000 (testing) samples in total.
