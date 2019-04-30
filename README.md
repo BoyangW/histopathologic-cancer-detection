@@ -2,8 +2,8 @@
 
 **Author: Boyang Wei, Xinyu Zhang**
 
-This project focus on dentifying metastatic tissue in histopathologic scans of lymph node sections by Image Processing and Convolutional Neural Networks. Particularly, we explored how **image augmentation** methods help optimize the CNN model. 
-. 
+This project focus on dentifying metastatic tissue in histopathologic scans of lymph node sections by Image Processing and Convolutional Neural Networks. Particularly, we explored how **image augmentation** methods help optimize the CNN model.  
+
 Main sections:
 
 * Image Preprocessing [Image_Prepocessing.py](Image_Prepocessing.py)
